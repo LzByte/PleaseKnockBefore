@@ -5,7 +5,7 @@ El atajo de teclado que utiliza para mutear es ctlr+m, ponlo en discord o teamsp
 
 
 ### English:
-Program to minimize all windows or mute microphone when it detects motion on the webcam, simply put it facing the door rom and run the program. Perfect if you have people at home that do not respect the privacy of the rooms.
+Program to minimize all windows or mute microphone when it detects motion on the webcam, simply put it facing the room's door and run the program. Perfect if you have people at home that do not respect the privacy of the rooms.
 The key shortcut to mute used is ctlr+m, set it on discord o teamspeak.
 
 
