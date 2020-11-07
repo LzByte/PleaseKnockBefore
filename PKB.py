@@ -48,13 +48,6 @@ while True:
 
     mean, stddev = cv2.meanStdDev(motion)
     if stddev[0][0] > 20:
-        motionum = 0
-        h, w = motion.shape
-        for x in range(0, w-1, 2):
-            for y in range(0, h-1, 2):
-                if motion[y][x] == 255:
-                    motionum += 1
-
         print("Motion detected")
         #beep
         if beep:
